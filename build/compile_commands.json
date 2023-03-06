@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/vscode/HW-MF/Zad2/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\Zad2.dir\\main.cpp.obj -c C:\\vscode\\HW-MF\\Zad2\\main.cpp",
+  "file": "C:/vscode/HW-MF/Zad2/main.cpp"
+}
+]
