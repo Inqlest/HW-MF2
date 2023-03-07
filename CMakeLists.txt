@@ -1,3 +1,3 @@
 cmake_minimum_required(VERSION 3.0.0)
 project(Zad2 VERSION 0.1.0)
-add_executable(Zad2 main.cpp)
+add_executable(Zad2 main.cpp counter.cpp counter.h)

@@ -1,5 +1,0 @@
-C:/vscode/HW-MF/Zad2/build/CMakeFiles/Zad2.dir
-C:/vscode/HW-MF/Zad2/build/CMakeFiles/package.dir
-C:/vscode/HW-MF/Zad2/build/CMakeFiles/package_source.dir
-C:/vscode/HW-MF/Zad2/build/CMakeFiles/edit_cache.dir
-C:/vscode/HW-MF/Zad2/build/CMakeFiles/rebuild_cache.dir
